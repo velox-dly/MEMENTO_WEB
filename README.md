@@ -1,6 +1,5 @@
 # Memento - Retail Store Debt Management System (webVersion)
-![memento-2](https://github.com/user-attachments/assets/8b80aec1-7c2e-4b7a-9a77-760af8e6d50c)
-
+![memento-2](https://github.com/user-attachments/assets/aab8b7dc-099d-4f98-a629-6485a454607f)
 
 Memento is a simple web-based debt management system designed for small retail businesses such as "Sari-Sari" stores. It helps store owners keep track of customer debts efficiently. Users can add or update debtor records, manage essential store items, and let the system calculate totals automatically.
 
