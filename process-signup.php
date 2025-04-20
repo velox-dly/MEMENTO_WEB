@@ -9,7 +9,7 @@ if (!filter_var($_POST['email'], FILTER_VALIDATE_EMAIL)){
 if(strlen($_POST['password'])<8){
    die("password must be at least 8 character");
 }
-
+// TODO:  EEDIT RIN ITO  
 if ($_POST["password"] !== $_POST["password_confirmation"]){
    die("password do not much!");
 }

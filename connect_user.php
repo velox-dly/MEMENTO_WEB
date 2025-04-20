@@ -3,7 +3,7 @@ $host = "localhost";
 $dbname = "memento"; // Confirm this matches your database name
 $username = "root";
 $password = "diosalee22"; // If you set a password, update this
-
+// TODO:  EEDIT RIN ITO  
 $mysqli = new mysqli($host, $username, $password, $dbname);
 
 if ($mysqli->connect_error) {

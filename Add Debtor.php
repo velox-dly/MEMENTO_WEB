@@ -1,7 +1,7 @@
 <?php 
 include 'connect.php';
 
-// TODO:  EEDIT RIN ITO 
+// TODO:  EEDIT RIN ITO  
 $see_result = false;
 if (isset($_POST['compute'])){
 	$fullName = $_POST['fullName'];

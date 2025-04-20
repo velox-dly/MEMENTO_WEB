@@ -122,7 +122,7 @@ if($result){
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!--<title>Sidebar Menu | Side Navigation Bar</title>-->
-    <!-- CSS -->
+    <!-- CSS // TODO:  EEDIT RIN ITO   -->
     <link rel="stylesheet" href="style2.css" />
     <!-- Boxicons CSS -->
     <link

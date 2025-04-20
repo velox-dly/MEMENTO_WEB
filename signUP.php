@@ -37,7 +37,7 @@
   maxlength="8">
       </div>
        <button>Sign up</button>
-
+       // TODO:  EEDIT RIN ITO  
    </form>
    <div class="login">
             <span class="login   ">Already have an acccount?

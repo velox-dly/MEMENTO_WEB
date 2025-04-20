@@ -1,5 +1,5 @@
 <?php 
-
+// TODO:  EEDIT RIN ITO  
 session_start();
 if(isset($_SESSION["user_id"])){
   $mysqli = require __DIR__ . "/connect_user.php";

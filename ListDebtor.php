@@ -1,7 +1,7 @@
 <?php 
 include 'connect.php';
 ?>
-
+// TODO:  EEDIT RIN ITO  
 <!DOCTYPE html>
 <html lang="en">
   <head>
